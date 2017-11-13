@@ -1,0 +1,14 @@
+body{
+    background: black;
+    color:aqua;
+}
+
+
+.wrapper{
+    width: 600px;
+    margin: 50px auto;
+    text-align: center;
+}
+input{
+    margin: 10px 10px;
+}
